@@ -1,1 +1,1 @@
-# Medim Clone Project with Bootstrap
+# Medium Clone Project with Bootstrap
